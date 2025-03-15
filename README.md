@@ -27,7 +27,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ErickDsBR/ErickDsBR/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
