@@ -6,10 +6,20 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="340" src="https://i.pinimg.com/originals/c6/0f/74/c60f745b8819d349a38b0133af6da2c3.gif"  />
+
+###
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickDsBR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickDsBR&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ErickDsBR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickDsBR&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=discord_old_blurple&hide_border=true" height="100" alt="languages graph"  />
 </div>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ErickDsBR.ErickDsBR&"  />
 
 ###
 
@@ -28,14 +38,11 @@
 ###
 
 <div align="center">
-  <a href="Erick.brasil2102@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="35" alt="gmail logo"  />
+  <a href="https://www.youtube.com/@Erick_build" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.linkedin.com/in/erick-da-silva-brasil/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Erick_build" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/er1ckb/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="35" alt="instagram logo"  />
