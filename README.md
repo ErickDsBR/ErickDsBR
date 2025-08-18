@@ -2,17 +2,19 @@
 
 ###
 
-<h2 align="left">Futuro Desenvolvedor Full-Stack, atualmente cursando Análise e Desenvolvimento de Sistemas e mergulhando no universo do código.</h2>
+<br clear="both">
+
+<h2 align="center">Futuro Desenvolvedor Full-Stack, atualmente cursando Análise e Desenvolvimento de Sistemas e mergulhando no universo do código.</h2>
 
 ###
 
-<img align="left" height="335" src="https://i.pinimg.com/originals/c6/0f/74/c60f745b8819d349a38b0133af6da2c3.gif"  />
+<img align="left" height="300" src="https://i.pinimg.com/originals/c6/0f/74/c60f745b8819d349a38b0133af6da2c3.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickDsBR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickDsBR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ErickDsBR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="100" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickDsBR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=discord_old_blurple&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
 ###
@@ -45,6 +47,12 @@
   <a href="https://www.instagram.com/er1ckb/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="35" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ErickDsBR.ErickDsBR&"  />
 </div>
 
 ###
