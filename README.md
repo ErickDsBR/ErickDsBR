@@ -22,6 +22,14 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ErickDsBR.ErickDsBR&"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
@@ -47,12 +55,6 @@
   <a href="https://www.instagram.com/er1ckb/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="35" alt="instagram logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ErickDsBR.ErickDsBR&"  />
 </div>
 
 ###
