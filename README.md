@@ -20,7 +20,7 @@ Prazer, sou o Erick, tenho 20 anos. Sou desenvolvedor em formação e estudante 
   <img 
     src="https://streak-stats.demolab.com/?user=ErickDsBR&theme=github-dark-dimmed&locale=pt_BR&card_width=350&card_height=170&hide_border=true&border_radius=8" 
     alt="GitHub Streak Stats"
-    width="350"
+    width="250"
   />
 </a>
 <br/>
