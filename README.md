@@ -15,6 +15,7 @@ Prazer, sou o Erick, tenho 20 anos. Sou desenvolvedor em formação e estudante 
     width="350"
   />
 </a>
+<br/>
 <a href="https://github.com/ErickDsBR">
   <img 
     src="https://streak-stats.demolab.com/?user=ErickDsBR&theme=github-dark-dimmed&locale=pt_BR&card_width=350&card_height=170&hide_border=true&border_radius=8" 
@@ -22,7 +23,7 @@ Prazer, sou o Erick, tenho 20 anos. Sou desenvolvedor em formação e estudante 
     width="350"
   />
 </a>
-
+<br/>
 <p align="left">
     <a href="https://github.com/ErickDsBR?tab=repositories&sort=stargazers">
         <img
