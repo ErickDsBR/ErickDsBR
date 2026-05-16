@@ -6,39 +6,28 @@ Prazer, sou o Erick, tenho 20 anos. Sou desenvolvedor em formação e estudante 
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
-<a href="https://github.com/ErickDsBR">
-  <img 
-    src="https://ghstats.dev/api?username=ErickDsBR&theme=tokyonight&size=compact&hide_border=true&border_radius=8&hide=stars,issues,followers" 
-    alt="GitHub Stats"
-    width="350"
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com?user=ErickDsBR&theme=transparent&hide_border=true&border_radius=50&short_numbers=true&card_height=170&fire=FF0000"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    alt="Total de estrelas"
+    title="Total de estrelas GitHub"
+    src="https://custom-icon-badges.demolab.com/github/stars/ErickDsBR?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
   />
-</a>
-<br/>
-<a href="https://github.com/ErickDsBR">
-  <img 
-    src="https://streak-stats.demolab.com/?user=ErickDsBR&theme=github-dark-dimmed&locale=pt_BR&card_width=350&card_height=170&hide_border=true&border_radius=8" 
-    alt="GitHub Streak Stats"
-    width="250"
+  <img
+    alt="Seguidores"
+    title="Me siga no GitHub"
+    src="https://custom-icon-badges.demolab.com/github/followers/ErickDsBR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
   />
-</a>
-<br/>
-<p align="left">
-    <a href="https://github.com/ErickDsBR?tab=repositories&sort=stargazers">
-        <img
-            alt="Total de estrelas"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/ErickDsBR?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ErickDsBR?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/ErickDsBR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
