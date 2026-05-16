@@ -4,6 +4,25 @@
 
 Prazer, sou o Erick, tenho 20 anos. Sou desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por transformar ideias em soluções reais e ferramentas que ajudam as pessoas de verdade. Fora do código, você provavelmente vai me encontrar pesquisando sobre motos clássicas ou escutando uma boa música."
 
+---
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/ErickDsBR">
+  <img 
+    src="https://ghstats.dev/api?username=ErickDsBR&theme=tokyonight&size=compact&hide_border=true&border_radius=8&hide=stars,issues,followers" 
+    alt="GitHub Stats"
+    width="350"
+  />
+</a>
+<a href="https://github.com/ErickDsBR">
+  <img 
+    src="https://streak-stats.demolab.com/?user=ErickDsBR&theme=github-dark-dimmed&locale=pt_BR&card_width=350&card_height=170&hide_border=true&border_radius=8" 
+    alt="GitHub Streak Stats"
+    width="350"
+  />
+</a>
+
 <p align="left">
     <a href="https://github.com/ErickDsBR?tab=repositories&sort=stargazers">
         <img
